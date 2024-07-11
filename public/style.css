@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+}
+
+#body1{
+    background-color: white;
+}
+
+#main-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    margin-left: 30%;
+    border-radius: 10%;
+    margin-top: 5%;
+}
+
+#quantity{
+    width: 200px;
+}
+
+h2{
+    justify-content: center;
+}
+
+input {
+    width: 140px;
+}
+
+.h{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
